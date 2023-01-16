@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IanCarpenter6
-- 👀 I’m interested in Software/Cloud Engineering and Cyber Security
-- 🌱 I’m currently learning Object Oriented Programming and Algorithms 
+- 👀 I’m interested in Software and Cloud Engineering as well as Cyber Security
+- 🌱 I’m currently learning Concepts of Databases and Mathematical Computing 
 - 📫 How to reach me:
       - Phone: 469-585-8449
       - E-mail: iancarp36@gmail.com
