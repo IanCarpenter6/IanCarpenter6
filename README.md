@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IanCarpenter6
-- 👀 I’m interested in Software and Cloud Engineering, VR Development, Game Development, and Cyber Security
+- 👀 I’m interested in Software, VR, QA Development, and Cyber Security
 - 🌱 I’m currently learning Concepts of Database Systems, Computer Networks, and Mathematical Computing 
 - 📫 
       [Phone: 469-585-8449]
