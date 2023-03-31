@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IanCarpenter6
+- 👋 Hi, I’m Ian Carpenter
 - 👀 I’m interested in Full Stack, UX/UI, VR, and QA Development as well as Cyber Security
 - 🌱 I’m currently learning Concepts of Database Systems, Computer Networks, and Mathematical Computing 
 - 📫 
